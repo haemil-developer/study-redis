@@ -73,7 +73,7 @@ key-value 값을 가지는 상수의 시간 복잡도 <br>
 ✅ **Cache Hit**
 <img src="./assets/images/cache_redis_hit.png" title="cahce_hit"/>
 <br><br>
-❌ Cache Miss
+❌ **Cache Miss**
  <img src="./assets/images/cache_redis_miss.png" title="cahce_miss"/>
 
  ### Cache-Aside patter
